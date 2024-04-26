@@ -1,6 +1,6 @@
 # OIBSIP
 
-This repo is about the internship projects for the company Oasis Infobyte.
+This repository is about the internship projects for the company Oasis Infobyte.
 
 Task 1 is about the classification and prediction of different flowers using the iris dataset.
 
